@@ -1,466 +1,582 @@
 [
   {
     "name": "Random",
-    "thumbnail_url": "https://i.gyazo.com/404e6286a7050bd7303b1300470eb5b2.png"
+    "thumbnail_url": "./StageImages/random.png",
+    "id": 0
   },
   {
     "name": "Battlefield",
-    "thumbnail_url": "./StageImages/stage_thumb1.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb1.jpg",
+    "id": 1
   },
   {
     "name": "Small Battlefield",
-    "thumbnail_url": "./StageImages/stage_thumb104.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb104.jpg",
+    "id": 2
   },
   {
     "name": "Big Battlefield",
-    "thumbnail_url": "./StageImages/stage_thumb2.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb2.jpg",
+    "id": 3
   },
   {
     "name": "Final Destination",
-    "thumbnail_url": "./StageImages/stage_thumb3.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb3.jpg",
+    "id": 4
   },
   {
     "name": "Peach's Castle",
-    "thumbnail_url": "./StageImages/stage_thumb4.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb4.jpg",
+    "id": 5
   },
   {
     "name": "Kongo Jungle",
-    "thumbnail_url": "./StageImages/stage_thumb5.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb5.jpg",
+    "id": 6
   },
   {
     "name": "Hyrule Castle",
-    "thumbnail_url": "./StageImages/stage_thumb6.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb6.jpg",
+    "id": 7
   },
   {
     "name": "Super Happy Tree",
-    "thumbnail_url": "./StageImages/stage_thumb7.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb7.jpg",
+    "id": 8
   },
   {
     "name": "Dream Land",
-    "thumbnail_url": "./StageImages/stage_thumb8.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb8.jpg",
+    "id": 9
   },
   {
     "name": "Saffron City",
-    "thumbnail_url": "./StageImages/stage_thumb9_en.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb9_en.jpg",
+    "id": 10
   },
   {
     "name": "Mushroom Kingdom",
-    "thumbnail_url": "./StageImages/stage_thumb10.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb10.jpg",
+    "id": 11
   },
   {
     "name": "Princess Peach's Castle",
-    "thumbnail_url": "./StageImages/stage_thumb11.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb11.jpg",
+    "id": 12
   },
   {
     "name": "Rainbow Cruise",
-    "thumbnail_url": "./StageImages/stage_thumb12.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb12.jpg",
+    "id": 13
   },
   {
     "name": "Kongo Falls",
-    "thumbnail_url": "./StageImages/stage_thumb13.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb13.jpg",
+    "id": 14
   },
   {
     "name": "Jungle Japes",
-    "thumbnail_url": "./StageImages/stage_thumb14.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb14.jpg",
+    "id": 15
   },
   {
     "name": "Great Bay",
-    "thumbnail_url": "./StageImages/stage_thumb15.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb15.jpg",
+    "id": 16
   },
   {
     "name": "Temple",
-    "thumbnail_url": "./StageImages/stage_thumb16.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb16.jpg",
+    "id": 17
   },
   {
     "name": "Brinstar",
-    "thumbnail_url": "./StageImages/stage_thumb17.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb17.jpg",
+    "id": 18
   },
   {
     "name": "Yoshi's Island (Melee)",
-    "thumbnail_url": "./StageImages/stage_thumb18.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb18.jpg",
+    "id": 19
   },
   {
     "name": "Yoshi's Story",
-    "thumbnail_url": "./StageImages/stage_thumb19.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb19.jpg",
+    "id": 20
   },
   {
     "name": "Fountain of Dreams",
-    "thumbnail_url": "./StageImages/stage_thumb20.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb20.jpg",
+    "id": 21
   },
   {
     "name": "Green Greens",
-    "thumbnail_url": "./StageImages/stage_thumb21.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb21.jpg",
+    "id": 22
   },
   {
     "name": "Corneria",
-    "thumbnail_url": "./StageImages/stage_thumb22.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb22.jpg",
+    "id": 23
   },
   {
     "name": "Venom",
-    "thumbnail_url": "./StageImages/stage_thumb23.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb23.jpg",
+    "id": 24
   },
   {
     "name": "Pokémon Stadium",
-    "thumbnail_url": "./StageImages/stage_thumb24.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb24.jpg",
+    "id": 25
   },
   {
     "name": "Onett",
-    "thumbnail_url": "./StageImages/stage_thumb25.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb25.jpg",
+    "id": 26
   },
   {
     "name": "Mushroom Kingdom II",
-    "thumbnail_url": "./StageImages/stage_thumb26.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb26.jpg",
+    "id": 27
   },
   {
     "name": "Brinstar Depths",
-    "thumbnail_url": "./StageImages/stage_thumb27.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb27.jpg",
+    "id": 28
   },
   {
     "name": "Big Blue",
-    "thumbnail_url": "./StageImages/stage_thumb28.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb28.jpg",
+    "id": 29
   },
   {
     "name": "Fourside",
-    "thumbnail_url": "./StageImages/stage_thumb29.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb29.jpg",
+    "id": 30
   },
   {
     "name": "Delfino Plaza",
-    "thumbnail_url": "./StageImages/stage_thumb30.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb30.jpg",
+    "id": 31
   },
   {
     "name": "Mushroomy Kingdom",
-    "thumbnail_url": "./StageImages/stage_thumb31.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb31.jpg",
+    "id": 32
   },
   {
     "name": "Figure-8 Circuit",
-    "thumbnail_url": "./StageImages/stage_thumb32.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb32.jpg",
+    "id": 33
   },
   {
     "name": "WarioWare, Inc.",
-    "thumbnail_url": "./StageImages/stage_thumb33.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb33.jpg",
+    "id": 34
   },
   {
     "name": "Bridge of Eldin",
-    "thumbnail_url": "./StageImages/stage_thumb34.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb34.jpg",
+    "id": 35
   },
   {
     "name": "Norfair",
-    "thumbnail_url": "./StageImages/stage_thumb35.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb35.jpg",
+    "id": 36
   },
   {
     "name": "Frigate Orpheon",
-    "thumbnail_url": "./StageImages/stage_thumb36.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb36.jpg",
+    "id": 37
   },
   {
     "name": "Yoshi's Island",
-    "thumbnail_url": "./StageImages/stage_thumb37.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb37.jpg",
+    "id": 38
   },
   {
     "name": "Halberd",
-    "thumbnail_url": "./StageImages/stage_thumb38.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb38.jpg",
+    "id": 39
   },
   {
     "name": "Lylat Cruise",
-    "thumbnail_url": "./StageImages/stage_thumb39.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb39.jpg",
+    "id": 40
   },
   {
     "name": "Pokémon Stadium 2",
-    "thumbnail_url": "./StageImages/stage_thumb40.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb40.jpg",
+    "id": 41
   },
   {
     "name": "Port Town Aero Dive",
-    "thumbnail_url": "./StageImages/stage_thumb41.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb41.jpg",
+    "id": 42
   },
   {
     "name": "Castle Siege",
-    "thumbnail_url": "./StageImages/stage_thumb42.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb42.jpg",
+    "id": 43
   },
   {
     "name": "Distant Planet",
-    "thumbnail_url": "./StageImages/stage_thumb43.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb43.jpg",
+    "id": 44
   },
   {
     "name": "Smashville",
-    "thumbnail_url": "./StageImages/stage_thumb44.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb44.jpg",
+    "id": 45
   },
   {
     "name": "New Pork City",
-    "thumbnail_url": "./StageImages/stage_thumb45.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb45.jpg",
+    "id": 46
   },
   {
     "name": "Summit",
-    "thumbnail_url": "./StageImages/stage_thumb46.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb46.jpg",
+    "id": 47
   },
   {
     "name": "Skyworld",
-    "thumbnail_url": "./StageImages/stage_thumb47.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb47.jpg",
+    "id": 48
   },
   {
     "name": "Shadow Moses Island",
-    "thumbnail_url": "./StageImages/stage_thumb48.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb48.jpg",
+    "id": 49
   },
   {
     "name": "Luigi's Mansion",
-    "thumbnail_url": "./StageImages/stage_thumb49.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb49.jpg",
+    "id": 50
   },
   {
     "name": "Pirate Ship",
-    "thumbnail_url": "./StageImages/stage_thumb50.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb50.jpg",
+    "id": 51
   },
   {
     "name": "Spear Pillar",
-    "thumbnail_url": "./StageImages/stage_thumb51.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb51.jpg",
+    "id": 52
   },
   {
     "name": "75 m",
-    "thumbnail_url": "./StageImages/stage_thumb52.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb52.jpg",
+    "id": 53
   },
   {
     "name": "Mario Bros.",
-    "thumbnail_url": "./StageImages/stage_thumb53.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb53.jpg",
+    "id": 54
   },
   {
     "name": "Hanenbow",
-    "thumbnail_url": "./StageImages/stage_thumb54.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb54.jpg",
+    "id": 55
   },
   {
     "name": "Green Hill Zone",
-    "thumbnail_url": "./StageImages/stage_thumb55.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb55.jpg",
+    "id": 56
   },
   {
     "name": "3D Land",
-    "thumbnail_url": "./StageImages/stage_thumb56.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb56.jpg",
+    "id": 57
   },
   {
     "name": "Golden Plains",
-    "thumbnail_url": "./StageImages/stage_thumb57.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb57.jpg",
+    "id": 58
   },
   {
     "name": "Paper Mario",
-    "thumbnail_url": "./StageImages/stage_thumb58.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb58.jpg",
+    "id": 59
   },
   {
     "name": "Gerudo Valley",
-    "thumbnail_url": "./StageImages/stage_thumb59.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb59.jpg",
+    "id": 60
   },
   {
     "name": "Spirit Train",
-    "thumbnail_url": "./StageImages/stage_thumb60.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb60.jpg",
+    "id": 61
   },
   {
     "name": "Dream Land GB",
-    "thumbnail_url": "./StageImages/stage_thumb61.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb61.jpg",
+    "id": 62
   },
   {
     "name": "Unova Pokémon League",
-    "thumbnail_url": "./StageImages/stage_thumb62.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb62.jpg",
+    "id": 63
   },
   {
     "name": "Prism Tower",
-    "thumbnail_url": "./StageImages/stage_thumb63.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb63.jpg",
+    "id": 64
   },
   {
     "name": "Mute City SNES",
-    "thumbnail_url": "./StageImages/stage_thumb64.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb64.jpg",
+    "id": 65
   },
   {
     "name": "Magicant",
-    "thumbnail_url": "./StageImages/stage_thumb65.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb65.jpg",
+    "id": 66
   },
   {
     "name": "Arena Ferox",
-    "thumbnail_url": "./StageImages/stage_thumb66.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb66.jpg",
+    "id": 67
   },
   {
     "name": "Reset Bomb Forest",
-    "thumbnail_url": "./StageImages/stage_thumb67.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb67.jpg",
+    "id": 68
   },
   {
     "name": "Tortimer Island",
-    "thumbnail_url": "./StageImages/stage_thumb68.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb68.jpg",
+    "id": 69
   },
   {
     "name": "Balloon Fight",
-    "thumbnail_url": "./StageImages/stage_thumb69.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb69.jpg",
+    "id": 70
   },
   {
     "name": "Living Room",
-    "thumbnail_url": "./StageImages/stage_thumb70.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb70.jpg",
+    "id": 71
   },
   {
     "name": "Find Mii",
-    "thumbnail_url": "./StageImages/stage_thumb71.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb71.jpg",
+    "id": 72
   },
   {
     "name": "Tomodachi Life",
-    "thumbnail_url": "./StageImages/stage_thumb72.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb72.jpg",
+    "id": 73
   },
   {
     "name": "PictoChat 2",
-    "thumbnail_url": "./StageImages/stage_thumb73_en.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb73_en.jpg",
+    "id": 74
   },
   {
     "name": "Mushroom Kingdom U",
-    "thumbnail_url": "./StageImages/stage_thumb74.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb74.jpg",
+    "id": 75
   },
   {
     "name": "Mario Galaxy",
-    "thumbnail_url": "./StageImages/stage_thumb75.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb75.jpg",
+    "id": 76
   },
   {
     "name": "Mario Circuit",
-    "thumbnail_url": "./StageImages/stage_thumb76.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb76.jpg",
+    "id": 77
   },
   {
     "name": "Skyloft",
-    "thumbnail_url": "./StageImages/stage_thumb77.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb77.jpg",
+    "id": 78
   },
   {
     "name": "The Great Cave Offensive",
-    "thumbnail_url": "./StageImages/stage_thumb78.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb78.jpg",
+    "id": 79
   },
   {
     "name": "Kalos Pokémon League",
-    "thumbnail_url": "./StageImages/stage_thumb79.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb79.jpg",
+    "id": 80
   },
   {
     "name": "Coliseum",
-    "thumbnail_url": "./StageImages/stage_thumb80.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb80.jpg",
+    "id": 81
   },
   {
     "name": "Flat Zone X",
-    "thumbnail_url": "./StageImages/stage_thumb81_en.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb81_en.jpg",
+    "id": 82
   },
   {
     "name": "Palutena's Temple",
-    "thumbnail_url": "./StageImages/stage_thumb82.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb82.jpg",
+    "id": 83
   },
   {
     "name": "Gamer",
-    "thumbnail_url": "./StageImages/stage_thumb83.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb83.jpg",
+    "id": 84
   },
   {
     "name": "Garden of Hope",
-    "thumbnail_url": "./StageImages/stage_thumb84.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb84.jpg",
+    "id": 85
   },
   {
     "name": "Town and City",
-    "thumbnail_url": "./StageImages/stage_thumb85_en.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb85_en.jpg",
+    "id": 86
   },
   {
     "name": "Wii Fit Studio",
-    "thumbnail_url": "./StageImages/stage_thumb86.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb86.jpg",
+    "id": 87
   },
   {
     "name": "Boxing Ring",
-    "thumbnail_url": "./StageImages/stage_thumb87.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb87.jpg",
+    "id": 88
   },
   {
     "name": "Gaur Plain",
-    "thumbnail_url": "./StageImages/stage_thumb88.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb88.jpg",
+    "id": 89
   },
   {
     "name": "Duck Hunt",
-    "thumbnail_url": "./StageImages/stage_thumb89.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb89.jpg",
+    "id": 90
   },
   {
     "name": "Wrecking Crew",
-    "thumbnail_url": "./StageImages/stage_thumb90.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb90.jpg",
+    "id": 91
   },
   {
     "name": "Pilotwings",
-    "thumbnail_url": "./StageImages/stage_thumb91.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb91.jpg",
+    "id": 92
   },
   {
     "name": "Wuhu Island",
-    "thumbnail_url": "./StageImages/stage_thumb92.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb92.jpg",
+    "id": 93
   },
   {
     "name": "Windy Hill Zone",
-    "thumbnail_url": "./StageImages/stage_thumb93.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb93.jpg",
+    "id": 94
   },
   {
     "name": "Wily Castle",
-    "thumbnail_url": "./StageImages/stage_thumb94.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb94.jpg",
+    "id": 95
   },
   {
     "name": "PAC-LAND",
-    "thumbnail_url": "./StageImages/stage_thumb95.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb95.jpg",
+    "id": 96
   },
   {
     "name": "Super Mario Maker",
-    "thumbnail_url": "./StageImages/stage_thumb96.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb96.jpg",
+    "id": 97
   },
   {
     "name": "Suzaku Castle",
-    "thumbnail_url": "./StageImages/stage_thumb97.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb97.jpg",
+    "id": 98
   },
   {
     "name": "Midgar",
-    "thumbnail_url": "./StageImages/stage_thumb98.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb98.jpg",
+    "id": 99
   },
   {
     "name": "Umbra Clock Tower",
-    "thumbnail_url": "./StageImages/stage_thumb99.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb99.jpg",
+    "id": 100
   },
   {
     "name": "New Donk City Hall",
-    "thumbnail_url": "./StageImages/stage_thumb100.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb100.jpg",
+    "id": 101
   },
   {
     "name": "Great Plateau Tower",
-    "thumbnail_url": "./StageImages/stage_thumb101.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb101.jpg",
+    "id": 102
   },
   {
     "name": "Moray Towers",
-    "thumbnail_url": "./StageImages/stage_thumb102.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb102.jpg",
+    "id": 103
   },
   {
     "name": "Dracula's Castle",
-    "thumbnail_url": "./StageImages/stage_thumb103.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb103.jpg",
+    "id": 104
   },
   {
     "name": "Mementos",
-    "thumbnail_url": "./StageImages/stage_thumb105.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb105.jpg",
+    "id": 105
   },
   {
     "name": "Yggdrasil's Altar",
-    "thumbnail_url": "./StageImages/stage_thumb106.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb106.jpg",
+    "id": 106
   },
   {
     "name": "Spiral Mountain",
-    "thumbnail_url": "./StageImages/stage_thumb107.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb107.jpg",
+    "id": 107
   },
   {
     "name": "King of Fighters Stadium",
-    "thumbnail_url": "./StageImages/stage_thumb108.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb108.jpg",
+    "id": 108
   },
   {
     "name": "Garreg Mach Monastery",
-    "thumbnail_url": "./StageImages/stage_thumb109.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb109.jpg",
+    "id": 109
   },
   {
     "name": "Spring Stadium",
-    "thumbnail_url": "./StageImages/stage_thumb110.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb110.jpg",
+    "id": 110
   },
   {
     "name": "Minecraft World",
-    "thumbnail_url": "./StageImages/stage_thumb111.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb111.jpg",
+    "id": 111
   },
   {
     "name": "Northern Cave",
-    "thumbnail_url": "./StageImages/stage_thumb112.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb112.jpg",
+    "id": 112
   },
   {
     "name": "Cloud Sea of Alrest",
-    "thumbnail_url": "./StageImages/stage_thumb113.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb113.jpg",
+    "id": 113
   },
   {
     "name": "Mishima Dojo",
-    "thumbnail_url": "./StageImages/stage_thumb114.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb114.jpg",
+    "id": 114
   },
   {
     "name": "Hollow Bastion",
-    "thumbnail_url": "./StageImages/stage_thumb115.jpg"
+    "thumbnail_url": "./StageImages/stage_thumb115.jpg",
+    "id": 115
   }
 ]

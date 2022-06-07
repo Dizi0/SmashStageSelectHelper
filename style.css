@@ -1,0 +1,62 @@
+.stageList {
+    display: inline-block;
+    margin: auto;
+    border: 10px solid black;
+    background: black;
+}
+.stage {
+    filter: brightness(0.3);
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+.legend {
+    top: 20px;
+    left: 50%;
+    text-align: center;
+    line-height: 3;
+    height: 0px;
+    border-bottom: 55px solid #000000;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    width: 400px;
+    color: yellow;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.searchbox {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    height: 90%;
+}
+.highlighted {
+    filter: brightness(1);
+}
+.thumbnail {
+    border: 6px solid black;
+    border-bottom: 0px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 30%;
+    border-radius: 3px 3px 0px 0px;
+}
+.inputbox {
+    background: rgb(32,32,32);
+    background: linear-gradient(117deg, rgba(32,32,32,1) 0%, rgba(64,64,64,1) 19%, rgba(93,93,93,1) 20%, rgba(62,90,96,1) 55%);
+    width: 337px;
+    line-height: 0;
+    margin: auto;
+    height: 55px;
+    padding: 12px;
+    border-radius: 0px 0px 3px 3px;
+}
+body {
+    background: url("https://i.imgur.com/upfvkU3.png") no-repeat;
+    overflow: hidden;
+}
