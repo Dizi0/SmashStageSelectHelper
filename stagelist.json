@@ -1,5 +1,9 @@
 [
   {
+    "name": "Random",
+    "thumbnail_url": "https://i.gyazo.com/404e6286a7050bd7303b1300470eb5b2.png"
+  },
+  {
     "name": "Battlefield",
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb1.jpg"
   },
@@ -96,7 +100,7 @@
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb23.jpg"
   },
   {
-    "name": "Poku00e9mon Stadium",
+    "name": "Pokémon Stadium",
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb24.jpg"
   },
   {
@@ -160,7 +164,7 @@
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb39.jpg"
   },
   {
-    "name": "Poku00e9mon Stadium 2",
+    "name": "Pokémon Stadium 2",
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb40.jpg"
   },
   {
@@ -248,7 +252,7 @@
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb61.jpg"
   },
   {
-    "name": "Unova Poku00e9mon League",
+    "name": "Unova Pokémon League",
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb62.jpg"
   },
   {
@@ -316,7 +320,7 @@
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb78.jpg"
   },
   {
-    "name": "Kalos Poku00e9mon League",
+    "name": "Kalos Pokémon League",
     "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb79.jpg"
   },
   {
@@ -413,6 +417,6 @@
   },
   {
     "name": "Dracula's Castle",
-    "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb10.jpg"
+    "thumbnail_url": "https:/www.smashbros.com/assets_v2/img/stage/stage_thumb103.jpg"
   }
 ]
