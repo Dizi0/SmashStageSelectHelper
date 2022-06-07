@@ -1,517 +1,418 @@
 [
   {
-    "id": 0,
     "name": "Battlefield",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img1.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb1.jpg"
   },
   {
-    "id": 1,
     "name": "Small Battlefield",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img104.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb104.jpg"
   },
   {
-    "id": 2,
     "name": "Big Battlefield",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img2.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb2.jpg"
   },
   {
-    "id": 3,
     "name": "Final Destination",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img3.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb3.jpg"
   },
   {
-    "id": 4,
     "name": "Peach's Castle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img4.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb4.jpg"
   },
   {
-    "id": 5,
     "name": "Kongo Jungle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img5.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb5.jpg"
   },
   {
-    "id": 6,
     "name": "Hyrule Castle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img6.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb6.jpg"
   },
   {
-    "id": 7,
     "name": "Super Happy Tree",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img7.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb7.jpg"
   },
   {
-    "id": 8,
     "name": "Dream Land",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img8.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb8.jpg"
   },
   {
-    "id": 9,
     "name": "Saffron City",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img9.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb9_en.jpg"
   },
   {
-    "id": 10,
     "name": "Mushroom Kingdom",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img10.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb10.jpg"
   },
   {
-    "id": 11,
     "name": "Princess Peach's Castle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img11.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb11.jpg"
   },
   {
-    "id": 12,
     "name": "Rainbow Cruise",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img12.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb12.jpg"
   },
   {
-    "id": 13,
     "name": "Kongo Falls",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img13.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb13.jpg"
   },
   {
-    "id": 14,
     "name": "Jungle Japes",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img14.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb14.jpg"
   },
   {
-    "id": 15,
     "name": "Great Bay",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img15.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb15.jpg"
   },
   {
-    "id": 16,
     "name": "Temple",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img16.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb16.jpg"
   },
   {
-    "id": 17,
     "name": "Brinstar",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img17.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb17.jpg"
   },
   {
-    "id": 18,
     "name": "Yoshi's Island (Melee)",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img18.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb18.jpg"
   },
   {
-    "id": 19,
     "name": "Yoshi's Story",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img19.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb19.jpg"
   },
   {
-    "id": 20,
     "name": "Fountain of Dreams",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img20.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb20.jpg"
   },
   {
-    "id": 21,
     "name": "Green Greens",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img21.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb21.jpg"
   },
   {
-    "id": 22,
     "name": "Corneria",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img22.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb22.jpg"
   },
   {
-    "id": 23,
     "name": "Venom",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img23.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb23.jpg"
   },
   {
-    "id": 24,
     "name": "Pokémon Stadium",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img24.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb24.jpg"
   },
   {
-    "id": 25,
     "name": "Mushroom Kingdom 2",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img25.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb25.jpg"
   },
   {
-    "id": 26,
     "name": "Brinstar Depths",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img26.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb26.jpg"
   },
   {
-    "id": 27,
     "name": "Big Blue",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img27.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb27.jpg"
   },
   {
-    "id": 28,
     "name": "Fourside",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img28.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb28.jpg"
   },
   {
-    "id": 29,
     "name": "Delfino Plaza",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img29.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb29.jpg"
   },
   {
-    "id": 30,
     "name": "Mushroomy Kingdom",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img30.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb30.jpg"
   },
   {
-    "id": 31,
     "name": "Figure-8 Circuit",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img31.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb31.jpg"
   },
   {
-    "id": 32,
     "name": "WarioWare, Inc.",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img32.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb32.jpg"
   },
   {
-    "id": 33,
     "name": "Bridge of Eldin",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img33.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb33.jpg"
   },
   {
-    "id": 34,
     "name": "Norfair",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img34.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb34.jpg"
   },
   {
-    "id": 35,
     "name": "Frigate Orpheon",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img35.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb35.jpg"
   },
   {
-    "id": 36,
     "name": "Yoshi's Island",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img36.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb36.jpg"
   },
   {
-    "id": 37,
     "name": "Halberd",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img37.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb37.jpg"
   },
   {
-    "id": 38,
     "name": "Lylat Cruise",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img38.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb38.jpg"
   },
   {
-    "id": 39,
     "name": "Pokémon Stadium 2",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img39.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb39.jpg"
   },
   {
-    "id": 40,
     "name": "Port Town Aero Dive",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img40.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb40.jpg"
   },
   {
-    "id": 41,
     "name": "Castle Siege",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img41.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb41.jpg"
   },
   {
-    "id": 42,
     "name": "Distant Planet",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img42.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb42.jpg"
   },
   {
-    "id": 43,
     "name": "Smashville",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img43.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb43.jpg"
   },
   {
-    "id": 44,
     "name": "New Pork City",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img44.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb44.jpg"
   },
   {
-    "id": 45,
     "name": "Summit",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img45.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb45.jpg"
   },
   {
-    "id": 46,
     "name": "Skyworld",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img46.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb46.jpg"
   },
   {
-    "id": 47,
     "name": "Shadow Moses Island",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img47.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb47.jpg"
   },
   {
-    "id": 48,
     "name": "Luigi's Mansion",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img48.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb48.jpg"
   },
   {
-    "id": 49,
     "name": "Pirate Ship",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img49.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb49.jpg"
   },
   {
-    "id": 50,
     "name": "Spear Pillar",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img50.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb50.jpg"
   },
   {
-    "id": 51,
     "name": "75 m",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img51.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb51.jpg"
   },
   {
-    "id": 52,
     "name": "Mario Bros.",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img52.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb52.jpg"
   },
   {
-    "id": 53,
     "name": "Hanenbow",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img53.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb53.jpg"
   },
   {
-    "id": 54,
     "name": "Green Hill Zone",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img54.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb54.jpg"
   },
   {
-    "id": 55,
     "name": "3D Land",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img55.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb55.jpg"
   },
   {
-    "id": 56,
     "name": "Golden Plains",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img56.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb56.jpg"
   },
   {
-    "id": 57,
     "name": "Paper Mario",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img57.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb57.jpg"
   },
   {
-    "id": 58,
     "name": "Gerudo Valley",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img58.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb58.jpg"
   },
   {
-    "id": 59,
     "name": "Spirit Train",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img59.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb59.jpg"
   },
   {
-    "id": 60,
     "name": "Dream Land GB",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img60.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb60.jpg"
   },
   {
-    "id": 61,
     "name": "Unova Pokemon League",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img61.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb61.jpg"
   },
   {
-    "id": 62,
     "name": "Prism Tower",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img62.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb62.jpg"
   },
   {
-    "id": 63,
     "name": "Mute City SNES",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img63.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb63.jpg"
   },
   {
-    "id": 64,
     "name": "Magicant",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img64.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb64.jpg"
   },
   {
-    "id": 65,
     "name": "Arena Ferox",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img65.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb65.jpg"
   },
   {
-    "id": 66,
     "name": "Reset Bomb Forest",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img66.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb66.jpg"
   },
   {
-    "id": 67,
     "name": "Tortimer Island",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img67.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb67.jpg"
   },
   {
-    "id": 68,
     "name": "Balloon Fight",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img68.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb68.jpg"
   },
   {
-    "id": 69,
     "name": "Living Room",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img69.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb69.jpg"
   },
   {
-    "id": 70,
     "name": "Find Mii",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img70.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb70.jpg"
   },
   {
-    "id": 71,
     "name": "Tomodachi Life",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img71.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb71.jpg"
   },
   {
-    "id": 72,
     "name": "PictoChat 2",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img72.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb72.jpg"
   },
   {
-    "id": 73,
     "name": "Mushroom Kingdom U",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img73.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb73_en.jpg"
   },
   {
-    "id": 74,
     "name": "Mario Galaxy",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img74.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb74.jpg"
   },
   {
-    "id": 75,
     "name": "Mario Circuit",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img75.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb75.jpg"
   },
   {
-    "id": 76,
     "name": "Skyloft",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img76.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb76.jpg"
   },
   {
-    "id": 77,
     "name": "The Great Cave Offensive",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img77.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb77.jpg"
   },
   {
-    "id": 78,
     "name": "Kalos Pokémon League",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img78.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb78.jpg"
   },
   {
-    "id": 79,
     "name": "Coliseum",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img79.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb79.jpg"
   },
   {
-    "id": 80,
     "name": "Flat Zone X",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img80.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb80.jpg"
   },
   {
-    "id": 81,
     "name": "Palutena's Temple",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img81.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb81_en.jpg"
   },
   {
-    "id": 82,
     "name": "Gamer",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img82.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb82.jpg"
   },
   {
-    "id": 83,
     "name": "Garden of Hope",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img83.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb83.jpg"
   },
   {
-    "id": 84,
     "name": "Town and City",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img84.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb84.jpg"
   },
   {
-    "id": 85,
     "name": "Wii Fit Studio",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img85.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb85_en.jpg"
   },
   {
-    "id": 86,
     "name": "Boxing Ring",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img86.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb86.jpg"
   },
   {
-    "id": 87,
     "name": "Gaur Plain",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img87.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb87.jpg"
   },
   {
-    "id": 88,
     "name": "Duck Hunt",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img88.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb88.jpg"
   },
   {
-    "id": 89,
     "name": "Wrecking Crew",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img89.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb89.jpg"
   },
   {
-    "id": 90,
     "name": "Pilotwings",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img90.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb90.jpg"
   },
   {
-    "id": 91,
     "name": "Wuhu Island",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img91.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb91.jpg"
   },
   {
-    "id": 92,
     "name": "Windy Hill Zone",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img92.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb92.jpg"
   },
   {
-    "id": 93,
     "name": "Wily Castle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img93.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb93.jpg"
   },
   {
-    "id": 94,
     "name": "PAC-LAND",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img94.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb94.jpg"
   },
   {
-    "id": 95,
     "name": "Super Mario Maker",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img95.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb95.jpg"
   },
   {
-    "id": 96,
     "name": "Suzaku Castle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img96.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb96.jpg"
   },
   {
-    "id": 97,
     "name": "Midgar",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img97.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb97.jpg"
   },
   {
-    "id": 98,
     "name": "Umbra Clock Tower",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img98.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb98.jpg"
   },
   {
-    "id": 99,
     "name": "New Donk City Hall",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img99.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb99.jpg"
   },
   {
-    "id": 100,
     "name": "Great Plateau Tower",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img100.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb100.jpg"
   },
   {
-    "id": 101,
     "name": "Moray Towers",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img101.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb101.jpg"
   },
   {
-    "id": 102,
     "name": "Dracula's Castle",
-    "thumbnail": "https://www.smashbros.com/assets_v2/img/stage/stage_img102.jpg"
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb102.jpg"
+  },
+  {
+    "name": null,
+    "thumbnail_url": "https://www.smashbros.com/assets_v2/img/stage/stage_thumb103.jpg"
   }
 ]
