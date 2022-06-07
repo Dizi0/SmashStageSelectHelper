@@ -10,6 +10,7 @@
 <body>
 <div class="row">
     <div class="col-md-6">
+
         <div class="searchbox">
             <div class="thumbnail">
                 <img src="./StageImages/random_big.png" alt="">
@@ -18,33 +19,36 @@
                 <input name="searchTxt" type="text" maxlength="512" id="searchTxt" class="searchField" placeholder="Insert Stage name"/>
             </div>
         </div>
-
     </div>
+
     <div class="col-md-6">
         <br>
-        <div class="legend">
-            Stage Selection Helper
-        </div>
-        <div class="stageList" id="stagelist">
+        <div class="content">
 
-            <?php
-            $json = file_get_contents('./stagelist.json');
-            $stages = json_decode($json, true);
-            $counter = 0;
-            foreach ($stages as $index => $stage) {
-                ?>
-                <div id="stage-<?= $stage['id']?>" data-name="<?= $stage['name']?>" class="stage" style="background:url('<?= $stage['thumbnail_url'] ?>')"></div>
+            <div class="legend">
+                Stage Selection Helper
+            </div>
+            <div class="stageList" id="stagelist">
 
                 <?php
-                if ($counter == 11 ) {
-                    echo "<br>";
-                    $counter = 0;
-                } else {
-                    $counter++;
-                }
-            }
-            ?>
+                $json = file_get_contents('./stagelist.json');
+                $stages = json_decode($json, true);
+                $counter = 0;
+                foreach ($stages as $index => $stage) {
+                    ?>
+                    <div id="stage-<?= $stage['id']?>" data-name="<?= $stage['name']?>" class="stage" style="background:url('<?= $stage['thumbnail_url'] ?>')"></div>
 
+                    <?php
+                    if ($counter == 11 ) {
+                        echo "<br>";
+                        $counter = 0;
+                    } else {
+                        $counter++;
+                    }
+                }
+                ?>
+
+            </div>
         </div>
     </div>
 </div>

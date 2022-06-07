@@ -6,8 +6,8 @@
 }
 .stage {
     filter: brightness(0.3);
-    width: 70px;
-    height: 70px;
+    width: 3.5vw;
+    height: 3.5vw;
     display: inline-block;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -18,7 +18,7 @@
     left: 50%;
     text-align: center;
     line-height: 3;
-    height: 0px;
+    height: 0;
     border-bottom: 55px solid #000000;
     border-left: 30px solid transparent;
     border-right: 30px solid transparent;
@@ -42,9 +42,8 @@
     border: 6px solid black;
     border-bottom: 0px;
     width: fit-content;
-    margin: auto;
-    margin-top: 30%;
-    border-radius: 3px 3px 0px 0px;
+    margin: 30% auto auto;
+    border-radius: 3px 3px 0 0;
 }
 .inputbox {
     background: rgb(32,32,32);
@@ -54,9 +53,13 @@
     margin: auto;
     height: 55px;
     padding: 12px;
-    border-radius: 0px 0px 3px 3px;
+    border-radius: 0 0 3px 3px;
+}
+.content {
+    width: fit-content;
 }
 body {
-    background: url("https://i.imgur.com/upfvkU3.png") no-repeat;
+    background-size: cover !important;
+    background: url("https://i.imgur.com/upfvkU3.png") no-repeat center;
     overflow: hidden;
 }
