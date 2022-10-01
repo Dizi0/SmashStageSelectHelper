@@ -34,19 +34,19 @@
                 $json = file_get_contents('./stagelist.json');
                 $stages = json_decode($json, true);
                 $counter = 0;
-//                $new_json = [];
+                //                $new_json = [];
 
-//                foreach ($stages as $index => $stage) {
-//                    $new_json[] = [
-//                        'name' => $stage['name'],
-//                        'thumbnail_url' => $stage['thumbnail_url'],
-//                        'id' => $index,
-//                    ];
-//                }
+                //                foreach ($stages as $index => $stage) {
+                //                    $new_json[] = [
+                //                        'name' => $stage['name'],
+                //                        'thumbnail_url' => $stage['thumbnail_url'],
+                //                        'id' => $index,
+                //                    ];
+                //                }
 
                 foreach ($stages as $index => $stage) {
                     ?>
-                    <div id="stage-<?= $stage['id']?>" data-name="<?= $stage['name']?>" class="stage" style="background:url('<?= $stage['thumbnail_url'] ?>')"></div>
+                    <div id="stage-<?= $stage['id']?>" data-name="<?= $stage['name']?>" class="stage highlighted" style="background:url('<?= $stage['thumbnail_url'] ?>')"></div>
 
                     <?php
                     if ($counter == 10 ) {
@@ -73,7 +73,13 @@
 
     function searchURL() {
         let txt = searchTxt.value;
-        if(txt !== '') {
+
+        if (txt.length === 0) {
+            stagelistArr.forEach(stage => {
+                console.log('HERE')
+                document.getElementById(stage.id).classList.add("highlighted")
+            })
+        } else if(txt !== '') {
             stagelistArr.forEach(stage => {
                 document.getElementById(stage.id).classList.remove("highlighted")
                 if (stage.name.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").includes(txt.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, ""))){
@@ -81,10 +87,8 @@
                     return true
                 }
             })
-
         }
     }
-
 
     document.querySelector('#searchTxt').addEventListener("keyup", ()=>searchURL());
 </script>
