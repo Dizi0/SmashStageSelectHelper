@@ -34,12 +34,22 @@
                 $json = file_get_contents('./stagelist.json');
                 $stages = json_decode($json, true);
                 $counter = 0;
+//                $new_json = [];
+
+//                foreach ($stages as $index => $stage) {
+//                    $new_json[] = [
+//                        'name' => $stage['name'],
+//                        'thumbnail_url' => $stage['thumbnail_url'],
+//                        'id' => $index,
+//                    ];
+//                }
+
                 foreach ($stages as $index => $stage) {
                     ?>
                     <div id="stage-<?= $stage['id']?>" data-name="<?= $stage['name']?>" class="stage" style="background:url('<?= $stage['thumbnail_url'] ?>')"></div>
 
                     <?php
-                    if ($counter == 11 ) {
+                    if ($counter == 10 ) {
                         echo "<br>";
                         $counter = 0;
                     } else {
